@@ -29,7 +29,7 @@
 <img src="./img/관련이미지1.png">
 <img src="./img/관련이미지2.png">
 - 동영상
-[<img src="/img/동영상2.png>](https://youtu.be/X9uI7zXVZkU)
+<img src="./img/동영상2.png" width="400" height="300">(https://youtu.be/X9uI7zXVZkU)
 
 <br><br>
 # [대표 이미지]
