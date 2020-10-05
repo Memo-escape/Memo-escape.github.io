@@ -121,35 +121,35 @@
 - 이미지  
 1. 문제
 <br>
-<img src="./object/문제.jpg" width="400" height="300">
+<img src="./img/문제.jpg" width="400" height="300">
 2. 자물쇠
 <br>
-<img src="./object/자물쇠.jpg" width="400" height="300">
+<img src="./img/자물쇠.jpg" width="400" height="300">
 3. 집 내부
 <br>
-<img src="./object/집 내부.jpg" width="400" height="300">
+<img src="./img/집 내부.jpg" width="400" height="300">
 4. 열쇠
 <br>
-<img src="./object/열쇠.jpg" width="400" height="300">
+<img src="./img/열쇠.jpg" width="400" height="300">
 5. 메모지
 <br>
-<img src="./object/메모지.jpg" width="400" height="300">
+<img src="./img/메모지.jpg" width="400" height="300">
 6. 서랍장
 <br>
-<img src="./object/서랍장.jpg" width="400" height="300">
+<img src="./img/서랍장.jpg" width="400" height="300">
 7. 지도
 <br>
-<img src="./object/지도.jpg" width="400" height="300">
+<img src="./img/지도.jpg" width="400" height="300">
 8. 가구들
 <br>
-<img src="./object/TV.jpg" width="400" height="300">
-<img src="./object/냉장고.jpg" width="400" height="300">
-<img src="./object/식탁.jpg" width="400" height="300">
-<img src="./object/벽시계.jpg" width="400" height="300">
+<img src="./img/TV.jpg" width="400" height="300">
+<img src="./img/냉장고.jpg" width="400" height="300">
+<img src="./img/식탁.jpg" width="400" height="300">
+<img src="./img/벽시계.jpg" width="400" height="300">
 9. 아이템들
 <br>
-<img src="./object/랜턴.jpg" width="400" height="300">
-<img src="./object/필기구.jpg" width="400" height="300">
+<img src="./img/랜턴.jpg" width="400" height="300">
+<img src="./img/필기구.jpg" width="400" height="300">
 
 <br>
 <br>
