@@ -386,6 +386,8 @@
 
 ## b. 시간별 흐름도(flowchart)
 
+<img src="./img/시간별 흐름도.png" width="700" height="800">
+
 <br><br>
 
 ## c. 키보드 이벤트에 대한 흐름도
