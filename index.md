@@ -395,4 +395,6 @@
 
 <br><br>
 
+<img src="./img/키보드 이벤트.png" width="700" height="800">
+
 ## d. 용어정리
