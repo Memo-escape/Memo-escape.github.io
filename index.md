@@ -420,3 +420,8 @@
 <img src="./img/용어정리1.png">
 <img src="./img/용어정리2.png">
 
+<br><br>
+
+## e. 개발일정
+
+<img src="./img/개발일정.png">
