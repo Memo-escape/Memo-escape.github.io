@@ -417,6 +417,6 @@
 
 <br><br>
 
-<img src="./img/용어정리.png">
+<img src="./img/용어정리1.png">
 <img src="./img/용어정리2.png">
 
