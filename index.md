@@ -47,8 +47,8 @@
 [8. 개발작업 일정](#개발작업-일정)
 
 # 개발 진행도
-- [a. 1주차](./files/#week1/memo-개발-1주차)
-- [b. 2주차](./files/#week2/memo-개발-2)
+- [a. 1주차](./files/week1.md)
+- [b. 2주차](./files/week2.md)
 
 
 # [컨셉]
