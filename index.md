@@ -484,9 +484,3 @@
 - 충돌 체크 마무리
 - 인테리어 그래픽 마무리
 - 동영상 제작
-
-## 개발영상
-
-![2주차](https://user-images.githubusercontent.com/71679798/97886406-e8d65980-1d6b-11eb-9f82-3048e0399110.gif)
-
-<img src="https://user-images.githubusercontent.com/71679798/97886406-e8d65980-1d6b-11eb-9f82-3048e0399110.gif">
