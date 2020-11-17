@@ -34,4 +34,4 @@
 
 추가 - 게임씬 내에 옵션 및 인벤토리 버튼 생성 및 옵션화면 추가
 
-![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71679798/99323210-10253e80-28b5-11eb-9798-948b910cc008.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/71679798/99323716-1bc53500-28b6-11eb-8e5b-dc0b9442ce8b.gif)
