@@ -51,6 +51,8 @@
 - [b. 2주차](./files/Week2.md)  
 - [c. 3주차](./files/Week3.md)
 - [d. 4주차](./files/Week4.md)
+- [e. 5주차](./files/Week5.md)
+- [f. 6주차](./files/Week6.md)
 
 
 # [컨셉]
